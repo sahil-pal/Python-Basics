@@ -1,0 +1,5 @@
+
+Task Name : sports   Task Type : productive   Task Time :  2.5  hrs
+Task Name : eat   Task Type : essential   Task Time :  0.3  hrs
+Task Name : shopping   Task Type : non-productive   Task Time :  1.5  hrs
+Task Name : gyming   Task Type : productive   Task Time :  2.5  hrs
