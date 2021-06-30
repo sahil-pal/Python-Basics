@@ -12,7 +12,7 @@ It is a python application that enables the user to create his/her account ,add 
 8. File Handling
 
 ## Features 
-1.Login/Signup. 
+1.Login/Signup.  
 2.Add task : add details of task like name of task, number of hours devoted etc...  
 3.Update task : add a task name to update and add the updated details.  
 4.View task : Shows all the task added by the user.  
